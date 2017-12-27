@@ -12,6 +12,9 @@ public class AESEncryption {
      * by encrypted and kept safe. The same key is required for decryption.
      * 3. 
      */
+	
+	
+	
     public static void main(String[] args) throws Exception {
         String plainText = "Hello World";
         SecretKey secKey = getSecretEncryptionKey();
