@@ -13,6 +13,7 @@ public class AES {
     private static SecretKeySpec secretKey;
     private static byte[] key;
    //ravi is coming  ddddddddddddd
+   //ravi is coming  eeeeeeeeeeeeeeeee
  
     public static void setKey(String myKey)
     {
