@@ -1,4 +1,4 @@
-import java.io.UnsupportedEncodingException;
+eeeeimport java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
@@ -12,7 +12,7 @@ public class AES {
 	private static String mykey = "***** this is the secret key hidden *****";
     private static SecretKeySpec secretKey;
     private static byte[] key;
-   //ravi is coming  cccccccccccccccc
+   //ravi is coming  eeeeeeeeeeeeeeeee
  
     public static void setKey(String myKey)
     {
