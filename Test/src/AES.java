@@ -12,7 +12,7 @@ public class AES {
 	private static String mykey = "***** this is the secret key hidden *****";
     private static SecretKeySpec secretKey;
     private static byte[] key;
-   //ravi is coming  1
+   //ravi is coming  1rretrr
  
     public static void setKey(String myKey)
     {
